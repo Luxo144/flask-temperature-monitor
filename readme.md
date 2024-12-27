@@ -16,7 +16,7 @@ Este proyecto es una aplicación web construida con Flask que simula un sistema 
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/luxo144/flask-temperature-monitor.git
+   git clone https://github.com/Luxo144/flask-temperature-monitor
    cd flask-temperature-monitor
 2. Instala las dependencias:
     ```bash
